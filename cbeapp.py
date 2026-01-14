@@ -1,7 +1,7 @@
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+
 from datetime import datetime
 
 st.set_page_config(page_title="AI Fraud Detection Agent", layout="wide")
@@ -182,3 +182,4 @@ if uploaded_file:
 
 else:
     st.info("Upload CSV to activate the system.")
+

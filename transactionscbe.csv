@@ -1,0 +1,6 @@
+user_id,amount,time,location,merchant,category
+11,9000,02:30,mumbai,amazon,shopping
+12,450,11:00,chennai,flipkart ,shopping
+13,500000,01:30,jodhpur,swiggy,food
+14,5000,02:10,mumbai,blinkit,electronics
+15,200,09:00,mumbai,uber,travel

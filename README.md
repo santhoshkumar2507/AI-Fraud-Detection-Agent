@@ -47,3 +47,21 @@ The agent uses rule-based intelligence and decision logic to protect users in re
 1. Install dependencies  
 ```bash
 pip install streamlit pandas
+## Setup and Execution Steps
+
+1. Install Python 3.8 or above  
+2. Install required libraries:
+pip install streamlit pandas
+3. Run the application:
+streamlit run cbeapp.py
+4. Upload the CSV file `transactionscbe.csv` when the app asks for input.
+
+5. The system will classify transactions into:
+- NORMAL
+- SUSPICIOUS
+- FRAUD
+## Prototype Link
+
+Figma Design:
+https://www.figma.com/board/O6Nuhc6F0GTzZDriJ9SU0P/FigJam-basics?node-id=0-1&t=w4oVjXp2JiDt6d6I-1
+

@@ -1,6 +1,6 @@
-
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
 
 from datetime import datetime
 
@@ -182,4 +182,5 @@ if uploaded_file:
 
 else:
     st.info("Upload CSV to activate the system.")
+
 
